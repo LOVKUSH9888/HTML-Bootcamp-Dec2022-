@@ -1,0 +1,11 @@
+h1 {
+    background-color: aquamarine;
+}
+/***************Picking class***************/
+.hero {
+    color: red;
+}
+/***************Picking id***************/
+#zero {
+    color: blue;
+}
