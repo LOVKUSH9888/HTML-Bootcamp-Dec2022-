@@ -5,3 +5,16 @@ div {
 h1 {
     border: solid;
 }
+
+.lol{
+    background-color: blue;
+    width: 100px;
+    height: 200px;
+    border: solid 10px;
+    padding: 20px;
+}
+
+.raja {
+    background-color: red;
+    margin-left: 260px;
+}
